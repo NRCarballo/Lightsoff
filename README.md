@@ -1,2 +1,2 @@
 # Lightsoff
-A small aplication to turn off the screen.
+A small application to turn off the screen.
